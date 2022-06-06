@@ -1,0 +1,20 @@
+table {
+
+    size: 20%;
+    padding:10%;
+    margin: auto;
+    font-size: large;
+   
+ }
+ th, td {
+    
+    text-align:center;
+ }
+ #td1{
+     text-align: left;
+ }
+ 
+ div{
+    margin: auto;   
+   
+ };
